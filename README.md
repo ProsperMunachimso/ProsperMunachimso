@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Prosper! 👋
 
-<!--
-**ProsperMunachimso/ProsperMunachimso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year **BSc (Hons) Computer Science student at Griffith College Dublin**, passionate about software development, problem-solving, and turning ideas into practical applications.
 
-Here are some ideas to get you started:
+I enjoy building software that solves real-world problems, with a particular interest in **full-stack development, artificial intelligence, and cloud technologies**. Through academic and personal projects, I've gained hands-on experience developing web applications, designing RESTful APIs, working with databases, and implementing secure authentication systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My technical experience includes **Java, Python, JavaScript, React, Node.js, SQL, and MongoDB**, and I'm constantly exploring new technologies and improving my understanding of data structures, algorithms, and software engineering principles.
+
+I believe the best way to grow as a developer is by building, experimenting, making mistakes, and learning from them.
+
+🚀 **Currently:** Working on my final-year project, strengthening my problem-solving skills, and preparing for a career in software engineering.
+
+🤝 **Open to:** Collaborating on interesting projects, learning from other developers, and exploring graduate software engineering opportunities.
